@@ -11,7 +11,6 @@ else
   set backupdir=~/.vim/backups,/tmp
 endif
 
-colors molokai
 set number
 
 set smartindent
