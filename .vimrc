@@ -25,3 +25,6 @@ else
   set backupdir=~/.vim/backups,/tmp
 endif
 
+" Colors/themes
+set background=dark
+colorscheme solarized
