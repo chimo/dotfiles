@@ -1,0 +1,4 @@
+[mpd]
+mpd_host = "10.118.161.65"
+mpd_music_dir = "/root/"
+

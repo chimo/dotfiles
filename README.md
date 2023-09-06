@@ -3,4 +3,5 @@
 ```
 .config/
     qutebrowser/
+    ncmpcpp/
 ```
