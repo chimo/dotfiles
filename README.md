@@ -4,4 +4,5 @@
 .config/
     qutebrowser/
     ncmpcpp/
+    newsboat/
 ```

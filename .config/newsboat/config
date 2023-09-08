@@ -1,0 +1,5 @@
+urls-source "freshrss"
+freshrss-url "https://rss.chromic.org/api/greader.php"
+freshrss-login "chimo"
+freshrss-passwordeval "~/.config/newsboat/askpass.sh"
+
