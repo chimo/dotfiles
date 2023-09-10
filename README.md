@@ -5,4 +5,6 @@
     qutebrowser/
     ncmpcpp/
     newsboat/
+.local/
+    bin/
 ```
