@@ -10,4 +10,5 @@
 .local/
     bin/
 .profile
+.vimrc
 ```
