@@ -9,4 +9,5 @@
 .gnupg/
 .local/
     bin/
+.profile
 ```
