@@ -6,6 +6,7 @@
     ncmpcpp/
     newsboat/
 .gitconfig
+.gnupg/
 .local/
     bin/
 ```
