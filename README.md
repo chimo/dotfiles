@@ -5,6 +5,7 @@
     qutebrowser/
     ncmpcpp/
     newsboat/
+.gitconfig
 .local/
     bin/
 ```
