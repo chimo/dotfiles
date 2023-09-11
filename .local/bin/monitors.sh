@@ -16,8 +16,8 @@ main() (
                 swaymsg 'output eDP-1 pos 1920 0 res 1920x1080' # xps
                 ;;
             "den")
-                echo "TODO"
-                exit 1
+                swaymsg 'output DP-2 pos 0 0 res 2560x1080' # monitor
+                swaymsg 'output eDP-1 pos 2560 0 res 1920x1080' # xps
                 ;;
             *)
                 echo "Unknown location: ${location}"
