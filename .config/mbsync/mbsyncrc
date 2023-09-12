@@ -1,0 +1,21 @@
+IMAPAccount chimo
+Host chromic.org
+User chimo@chromic.org
+PassCmd "cat /root/.config/mbsync/pass"
+SSLType IMAPS
+
+MaildirStore local
+Path /root/mail/
+Inbox /root/mail/INBOX
+SubFolders Verbatim
+
+IMAPStore chimo
+Account chimo
+
+Channel primary
+Far :chimo:
+Near :local:
+Patterns *
+Create Both
+Expunge Both
+
