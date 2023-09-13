@@ -1,3 +1,6 @@
 [submodule "committia.vim"]
 	path = .vim/pack/devel/start/committia.vim
 	url = https://github.com/rhysd/committia.vim.git
+[submodule "gitgutter"]
+	path = .vim/pack/devel/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
