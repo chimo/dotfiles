@@ -1,17 +1,17 @@
 filetype plugin indent on
 
-set background=dark
-set cc=80
-set expandtab
-set mouse=""
-set number
-set shiftwidth=4
-set smartindent
-"set spell spelllang=en_ca
-set tabstop=4
+set background=dark         " tell vim/plugins our background is dark
+set cc=80                   " highlight the 80th column (the default textwidth)
+set expandtab               " convert tabs into spaces
+set mouse=""                " disable mouse
+set number                  " show line numbers
+set shiftwidth=4            " four spaces per indentation level
+set smartindent             " have vim figure out when to indent
+"set spell spelllang=en_ca  " highlight misspelled words
+set tabstop=4               " four spaces per 'tab' press
 set updatetime=100          " lessen delay so git-gutter appears more seamless
                             " Note: also controls the delay before vim writes
                             " its swap file
 
-syntax on
+syntax on                   " pretty colours (syntax highlighting)
 
