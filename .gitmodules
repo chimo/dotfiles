@@ -1,0 +1,3 @@
+[submodule "committia.vim"]
+	path = .vim/pack/devel/start/committia.vim
+	url = https://github.com/rhysd/committia.vim.git

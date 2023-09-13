@@ -11,4 +11,5 @@
     bin/
 .profile
 .vimrc
+.vim/
 ```
