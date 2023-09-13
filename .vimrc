@@ -1,5 +1,8 @@
 filetype plugin indent on
 
+" Set gitgutter's column background colour as 'transparent'
+highlight SignColumn guibg=NONE ctermbg=NONE
+
 set background=dark         " tell vim/plugins our background is dark
 set cc=80                   " highlight the 80th column (the default textwidth)
 set expandtab               " convert tabs into spaces
