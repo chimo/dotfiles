@@ -14,8 +14,8 @@ case "${profile}" in
 EOF'
 
         ;;
-    "*")
-        lxc exec irssi -- "${@}"
+    "")
+        lxc exec irssi -- irssi "${@}"
         ;;
 esac
 
