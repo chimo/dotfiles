@@ -2,5 +2,5 @@
 
 wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle
 
-rm -f ~/devel/swaybar/states/volume.state
+~/.config/sway/swaybar/run_block.sh -b volume.sh -p json
 
