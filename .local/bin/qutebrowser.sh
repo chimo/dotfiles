@@ -1,4 +1,6 @@
 #!/bin/sh
 
-lxc exec qutebrowser -- qutebrowser --qt-flag no-sandbox
+url="${1}"
+
+lxc exec qutebrowser -- qutebrowser "${url}" --qt-flag no-sandbox
 
