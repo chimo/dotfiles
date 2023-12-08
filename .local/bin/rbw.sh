@@ -1,4 +1,1 @@
-#!/bin/sh
-
-lxc exec rbw -- rbw "${@}"
-
+./libs/_main.sh

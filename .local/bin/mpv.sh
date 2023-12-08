@@ -1,4 +1,1 @@
-#!/bin/sh
-
-lxc exec mpv -- mpv "${@}"
-
+./libs/_main.sh

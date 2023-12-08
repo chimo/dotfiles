@@ -1,4 +1,1 @@
-#!/bin/sh
-
-lxc exec ncmpcpp -- ncmpcpp "${@}"
-
+./libs/_main.sh

@@ -1,4 +1,1 @@
-#!/bin/sh
-
-lxc exec tut -- tut "${@}"
-
+./libs/_main.sh
