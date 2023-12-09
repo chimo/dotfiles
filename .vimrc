@@ -18,3 +18,4 @@ set updatetime=100          " lessen delay so git-gutter appears more seamless
 
 syntax on                   " pretty colours (syntax highlighting)
 
+colorscheme solarized
